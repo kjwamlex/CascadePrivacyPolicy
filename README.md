@@ -7,6 +7,6 @@
 - We are too broke to have a server to collect personal data.
 
   
-#AdMob (AdMob Google Inc.)
+# AdMob (AdMob Google Inc.)
 AdMob is an advertising service provided by AdMob Google Inc.
 Personal Data collected: Cookieas and Usage Data.
